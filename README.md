@@ -1,2 +1,2 @@
 # Project-demo
-This is for practice to know and use Git and GitHub.
+This is for practice to use Git and GitHub.
